@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: rgb(83, 156, 179);
+    text-align: center;
+}
+body{
+       font-family: sans-serif;
+       background-color: #7959317;
+}
+
+nav{
+       background-color:yellow;
+       height: 700px;
+}
+
+nav a{ 
+        color: black;
+        border: 1px solid yellow;
+}
+
+footer{
+         background-color: darkblue;
+}
+
+footer p{
+         color: black;
+         background-color:yellow ;
+         width: 100%;
+         border: 1px solid yellow;
+}
+
+main p {
+         background-color:green;
+         Color:black;
+}
+
+p img{
+         Border: 1px solid yellow;
+}
+  
+main p a{
+         border: 1px solid .;
+         Padding: 4px;
+}
